@@ -11,13 +11,10 @@
 
 - 🤝 I’m looking for help with [magical mirror](https://github.com/Gautam-Dhyagni/magical-mirror.git)
 
-- 📫 How to reach me **wrathofwise@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhyagnigautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhyagnigautam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19756294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19756294" height="30" width="40" /></a>
 <a href="https://fb.com/gautamdhyagni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamdhyagni" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamdhyagni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamdhyagni" height="30" width="40" /></a>
