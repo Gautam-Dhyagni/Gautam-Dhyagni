@@ -1,9 +1,9 @@
 ![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif)
-<h1 align="center">Hi 👋, I'm gautam dhyagni</h1>
+<h1 align="center">Hi 👋, I'm Gautam Dhyagni</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/GargantuanEvenBufflehead-size_restricted.gif">
 
-<p align="left"> <a href="https://twitter.com/dhyagnigautam" target="blank"><img src="https://img.shields.io/twitter/follow/dhyagnigautam?logo=twitter&style=for-the-badge" alt="dhyagnigautam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dhyagnigautam" target="blank"><img src="https://img.shields.io/twitter/follow/GautamDhyagni?logo=twitter&style=for-the-badge" alt="GautamDhyagni" /></a> </p>
 
 - 🔭 I’m currently working on [magical mirror](https://github.com/Gautam-Dhyagni/magical-mirror.git)
 
