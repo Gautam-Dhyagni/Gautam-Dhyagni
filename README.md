@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam Dhyagni</h1>
-<h3 align="center">A Cyber Security Expert</h3>
+<h3 align="center">A Cyber Security Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gautam-Dhyagni&label=Profile%20views&color=0e75b6&style=flat" alt="Gautam-Dhyagni" /> </p>
 
